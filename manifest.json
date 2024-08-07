@@ -4,7 +4,8 @@
     "description": "https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?hl=ja",
     "version": "1.0",
     "permissions": [
-        "activeTab"
+        "activeTab",
+        "storage"
     ],
     "action": {
         "default_icon": "hello_extensions.png"
